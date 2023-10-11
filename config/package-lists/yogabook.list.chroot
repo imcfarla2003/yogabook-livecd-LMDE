@@ -1,0 +1,11 @@
+firmware-linux-free
+firmware-brcm80211
+firmware-misc-nonfree
+firmware-intel-sound
+task-ssh-server
+libinput-tools
+xinput
+touch-keyboard
+yogabook-support
+alsa-ucm-conf-yogabook
+efibootmgr

@@ -1,0 +1,10 @@
+[Image]
+Architecture: amd64
+Archive-Areas: main contrib non-free
+Distribution: bookworm
+Mirror-Bootstrap: http://ftp.by.debian.org/debian/
+
+[FIXME]
+Configuration-Version: 1:20230918
+Name: live-image
+Type: iso-hybrid

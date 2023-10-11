@@ -1,0 +1,15 @@
+#Gnome
+#task-gnome-desktop
+
+#KDE
+#task-kde-desktop
+
+#Mint LMDE
+# ensure you have the linux mint "Faye" repositories enabled
+#task-cinammon-desktop
+mint-meta-cinnamon
+lightdm
+packagekit
+
+# Common
+task-british-desktop
