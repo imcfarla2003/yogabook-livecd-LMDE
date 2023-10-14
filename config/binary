@@ -7,7 +7,7 @@ LB_IMAGE_TYPE="iso-hybrid"
 LB_BINARY_FILESYSTEM="fat32"
 
 # Set apt/aptitude generic indices
-LB_APT_INDICES="true"
+LB_APT_INDICES="false"
 
 # Set boot parameters
 LB_BOOTAPPEND_LIVE="boot=live components video=efifb:width:1200,stride:1200,height:1920 fbcon=rotate:1 random.trust_cpu=1 noprompt"
