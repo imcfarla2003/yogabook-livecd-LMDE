@@ -10,6 +10,7 @@
 mint-meta-cinnamon
 lightdm
 packagekit
+blueman
 
 # Common
 task-british-desktop
